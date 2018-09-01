@@ -4,7 +4,7 @@ A digital campaign by The Daily Star
 
 Project description:
 ---------------
-The user cab share the pictures through this webstie and The Daily Star publised the photos in its digital and print version.
+The user can share the pictures through this webstie and The Daily Star publised the photos in its digital and print version.
 H
 
 Project Link: 
